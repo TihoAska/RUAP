@@ -1,3 +1,3 @@
 # RUAP
 
-Moj repozitorij za kolegij RUAP
+Moj repozitorij
